@@ -188,7 +188,7 @@ const AboutSection: React.FC = () => {
           <h2 className="text-2xl font-bold mb-4">About Me</h2>
           <div className="flex justify-center items-center w-40 h-40 rounded-full overflow-hidden mb-4">
             <img
-              src="/images/aboutshk.png"
+              src="/images/aboutmeeee.jpeg"
               alt="Ardithya"
               className="w-full h-full object-cover"
             />

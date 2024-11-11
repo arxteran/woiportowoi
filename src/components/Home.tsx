@@ -107,7 +107,7 @@ const HeroSection: React.FC = () => {
           }}
         >
           <img
-            src="/images/shk.png"
+            src="/images/aing.jpeg"
             alt="Ardithya"
             className="w-full h-full rounded-full object-cover"
           />
